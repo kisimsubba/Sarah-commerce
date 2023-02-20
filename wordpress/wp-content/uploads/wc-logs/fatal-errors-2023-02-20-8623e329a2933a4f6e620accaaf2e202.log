@@ -1,0 +1,248 @@
+2023-02-20T15:02:51+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsakismet/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->start in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:04:27+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsakismet/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->start in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:06:29+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpress/wp-content/themesbig-store does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->sta in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:07:44+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpress/wp-content/themesbig-store does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->sta in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:08:49+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsesewa/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->start_t in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:10:14+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsesewa/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->start_t in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:11:15+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsexport-wp-page-to-static-html/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161 in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:12:19+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsexport-wp-page-to-static-html/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161 in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:13:45+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginshello.php does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->star in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:14:56+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginshello.php does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->star in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:15:59+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsjetpack/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->start in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:17:02+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsjetpack/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->start in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:18:31+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginslead-form-builder/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCom in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:19:41+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginslead-form-builder/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCom in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:20:53+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsone-click-demo-import/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPH in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:21:58+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsone-click-demo-import/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPH in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:23:58+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsth-advance-product-search/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): W in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:25:59+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsth-advance-product-search/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): W in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:27:32+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsth-all-in-one-woo-cart/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEP in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:28:59+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsth-all-in-one-woo-cart/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEP in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:30:27+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsthemehunk-customizer/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHP in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:32:32+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsthemehunk-customizer/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHP in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:33:33+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginswoocommerce/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->s in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:36:26+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginswoocommerce/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->s in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:37:33+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginswp-popup-builder/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPComp in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:39:22+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginswp-popup-builder/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPComp in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:40:24+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsyith-woocommerce-wishlist/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): W in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:41:44+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsyith-woocommerce-wishlist/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): W in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:45:03+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsakismet/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->start in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:47:02+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpresswp-contentpluginsakismet/ does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->start in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
+2023-02-20T15:49:05+00:00 CRITICAL Uncaught PHP_CodeSniffer_Exception: Source file C:xampphtdocswordpress/wp-content/themesbig-store does not exist in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php:1740
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php(653): PHP_CodeSniffer->processFile('C:xampphtdocswo...', NULL)
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer\CLI.php(998): PHP_CodeSniffer->processFiles(Array, false)
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(299): PHP_CodeSniffer_CLI->process(Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\src\wpephpcompat.php(243): WPEPHPCompat->process_file('C:xampphtdocswo...')
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\wpengine-phpcompat.php(161): WPEPHPCompat->sta in C:\xampp\htdocs\wordpress\wp-content\plugins\php-compatibility-checker\vendor\squizlabs\php_codesniffer\CodeSniffer.php on line 1740
+
